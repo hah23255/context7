@@ -56,7 +56,7 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@modelcontextprotocol/client": "2.0.0",
+    "@modelcontextprotocol/client": "2.2.0",
     "@types/node": "^25.0.3",
     "esbuild": "^0.28.2",
     "typescript": "^5.8.2",
